@@ -1,0 +1,10 @@
+INSERT INTO book.publishers (id, name) VALUES (1, 'HarperCollins');
+INSERT INTO book.publishers (id, name) VALUES (2, 'Penguin Random House');
+INSERT INTO book.publishers (id, name) VALUES (3, 'Simon & Schuster');
+INSERT INTO book.publishers (id, name) VALUES (4, 'Macmillan Publishers');
+INSERT INTO book.publishers (id, name) VALUES (5, 'Hachette Book Group');
+INSERT INTO book.publishers (id, name) VALUES (6, 'Pearson Education');
+INSERT INTO book.publishers (id, name) VALUES (7, 'Knopf Doubleday Publishing');
+INSERT INTO book.publishers (id, name) VALUES (8, 'Scholastic');
+INSERT INTO book.publishers (id, name) VALUES (9, 'Oxford University Press');
+INSERT INTO book.publishers (id, name) VALUES (10, 'HarperOne');
